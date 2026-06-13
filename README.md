@@ -1,0 +1,1 @@
+[![ajs ArrayBuffer](https://github.com/ivantr033/ajs-homeworks-ArrayBuffer/actions/workflows/webpack.yml/badge.svg)](https://github.com/ivantr033/ajs-homeworks-ArrayBuffer/actions/workflows/webpack.yml)
